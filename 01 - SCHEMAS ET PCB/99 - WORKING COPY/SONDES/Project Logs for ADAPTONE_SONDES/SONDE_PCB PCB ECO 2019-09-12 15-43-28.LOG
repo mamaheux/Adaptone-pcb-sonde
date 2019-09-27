@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5VA Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=+5VA Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=NetD1_A Pin=D2-A
+Removed Pin From Net: NetName=GND Pin=D2-K
+Removed Member From Class: ClassName=microphone Member=C35
+Removed Member From Class: ClassName=microphone Member=C36
+Removed Member From Class: ClassName=microphone Member=D3
+Change Component Designator: OldDesignator=C36 NewDesignator=C34
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Pin To Net: NetName=IO34 Pin=U4-2
+Added Pin To Net: NetName=IO35 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetR7_2 Pin=U4-2
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC34_1

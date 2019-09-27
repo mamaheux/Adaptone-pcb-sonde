@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=C9-1
+Added Component: Designator=C11(0805)
+Added Pin To Net: NetName=5V0 Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2

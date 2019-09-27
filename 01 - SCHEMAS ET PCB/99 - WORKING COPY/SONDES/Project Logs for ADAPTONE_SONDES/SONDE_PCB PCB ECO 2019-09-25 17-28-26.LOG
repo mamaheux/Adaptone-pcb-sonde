@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C7-1
+Removed Pin From Net: NetName=NetC8_2 Pin=C7-2
+Removed Pin From Net: NetName=3V3 Pin=C9-1
+Removed Pin From Net: NetName=VOUT_ANAL Pin=U2-1
+Removed Pin From Net: NetName=VOUT_ANAR Pin=U2-2
+Added Component: Designator=C8(0603)
+Added Component: Designator=C11(0805)
+Added Pin To Net: NetName=5V_POTENTIOMETER Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C7-1
+Added Pin To Net: NetName=NetC8_2 Pin=C7-2
+Added Pin To Net: NetName=5V0 Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VOUT_ANAR Pin=U2-1
+Added Pin To Net: NetName=VOUT_ANAL Pin=U2-2
+Added Member To Class: ClassName=microphone Member=Component C5 Capacitor
+Added Member To Class: ClassName=microphone Member=Component C6 Capacitor
+Added Member To Class: ClassName=microphone Member=Component C8 Capacitor
+Added Member To Class: ClassName=microphone Member=Component C11 Capacitor

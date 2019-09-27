@@ -1,0 +1,147 @@
+Added Component: Designator=*(PA2467NLT)
+Added Component: Designator=C5(CAP_RAD_SMD_DIA157)
+Added Component: Designator=C5(CAP_RAD_SMD_DIA157)
+Added Component: Designator=C85(0603)
+Added Component: Designator=C86(0603)
+Added Component: Designator=C90(CAP_RAD_SMD_DIA157)
+Added Component: Designator=C91(CAP_RAD_SMD_DIA157)
+Added Component: Designator=C92(0603)
+Added Component: Designator=C93(CAP_RAD_SMD_DIA157)
+Added Component: Designator=C94(CAP_RAD_SMD_DIA157)
+Added Component: Designator=C95(0603)
+Added Component: Designator=C159(0603)
+Added Component: Designator=C159(0603)
+Added Component: Designator=C159(0603)
+Added Component: Designator=C159(0603)
+Added Component: Designator=C167(0805)
+Added Component: Designator=C167(0805)
+Added Component: Designator=C168(0603)
+Added Component: Designator=D?(SOD-323F)
+Added Component: Designator=J?(TERM BLOCK)
+Added Component: Designator=J?(CONN_USB_MINIB_690-005-299-043)
+Added Component: Designator=L6(SRN5040-4R7M)
+Added Component: Designator=L?(0805)
+Added Component: Designator=Q?(SOT23_GDS)
+Added Component: Designator=Q?(SOT23_GDS)
+Added Component: Designator=R6(0603)
+Added Component: Designator=R6(0603)
+Added Component: Designator=R56(0402)
+Added Component: Designator=R56(0402)
+Added Component: Designator=R56(0402)
+Added Component: Designator=R56(0402)
+Added Component: Designator=R66(0603)
+Added Component: Designator=R70(0603)
+Added Component: Designator=R72(0603)
+Added Component: Designator=R73(0603)
+Added Component: Designator=U20(AP3513EMPTR-G1)
+Added Component: Designator=U?(4-SOPA)
+Added Component: Designator=U?(4-SOPA)
+Added Component: Designator=U?(24-QFN)
+Added Component: Designator=U?(SOT563)
+Added Component: Designator=U?(OSC_50MHZ)
+Added Pin To Net: NetName=GND Pin=C5--
+Added Pin To Net: NetName=GND Pin=C5--
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=V+ Pin=C90-+
+Added Pin To Net: NetName=GND Pin=C90--
+Added Pin To Net: NetName=V+ Pin=C91-+
+Added Pin To Net: NetName=GND Pin=C91--
+Added Pin To Net: NetName=GND Pin=C93--
+Added Pin To Net: NetName=GND Pin=C94--
+Added Pin To Net: NetName=GND Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C159-2
+Added Pin To Net: NetName=GND Pin=C159-2
+Added Pin To Net: NetName=GND Pin=C159-2
+Added Pin To Net: NetName=GND Pin=C159-2
+Added Pin To Net: NetName=GND Pin=C167-1
+Added Pin To Net: NetName=GND Pin=C167-2
+Added Pin To Net: NetName=GND Pin=C168-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=V+ Pin=R66-2
+Added Pin To Net: NetName=GND Pin=R72-2
+Added Pin To Net: NetName=GND Pin=R73-2
+Added Pin To Net: NetName=+5VA Pin=U3-8
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Pin To Net: NetName=IO34 Pin=U4-2
+Added Pin To Net: NetName=IO35 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetR7_2 Pin=U4-2
+Added Pin To Net: NetName=V+ Pin=U20-2
+Added Pin To Net: NetName=GND Pin=U20-4
+Added Pin To Net: NetName=GND Pin=U20-9
+Added Pin To Net: NetName=+3V3A Pin=C159-1
+Added Pin To Net: NetName=+3V3A Pin=C159-1
+Added Pin To Net: NetName=+3V3A Pin=C167-1
+Added Pin To Net: NetName=+3V3A Pin=L?-2
+Added Pin To Net: NetName=+3V3A Pin=R56-1
+Added Pin To Net: NetName=+3V3A Pin=R56-1
+Added Pin To Net: NetName=+3V3A Pin=R56-1
+Added Pin To Net: NetName=+3V3A Pin=R56-1
+Added Pin To Net: NetName=+3V3A Pin=U?-1
+Added Net: Name=+3V3A
+Added Pin To Net: NetName=+3V3 Pin=C5-+
+Added Pin To Net: NetName=+3V3 Pin=C5-+
+Added Pin To Net: NetName=+3V3 Pin=C93-+
+Added Pin To Net: NetName=+3V3 Pin=C94-+
+Added Pin To Net: NetName=+3V3 Pin=C159-1
+Added Pin To Net: NetName=+3V3 Pin=C159-1
+Added Pin To Net: NetName=+3V3 Pin=L6-2
+Added Pin To Net: NetName=+3V3 Pin=L?-1
+Added Pin To Net: NetName=+3V3 Pin=R6-2
+Added Pin To Net: NetName=+3V3 Pin=R70-1
+Added Pin To Net: NetName=+3V3 Pin=U?-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=NetC85_2 Pin=C85-2
+Added Pin To Net: NetName=NetC85_2 Pin=U20-8
+Added Net: Name=NetC85_2
+Added Pin To Net: NetName=NetC86_1 Pin=C86-1
+Added Pin To Net: NetName=NetC86_1 Pin=U20-1
+Added Net: Name=NetC86_1
+Added Pin To Net: NetName=NetC86_2 Pin=C86-2
+Added Pin To Net: NetName=NetC86_2 Pin=L6-1
+Added Pin To Net: NetName=NetC86_2 Pin=U20-3
+Added Net: Name=NetC86_2
+Added Pin To Net: NetName=NetC92_1 Pin=C92-1
+Added Pin To Net: NetName=NetC92_1 Pin=C95-1
+Added Pin To Net: NetName=NetC92_1 Pin=U20-6
+Added Net: Name=NetC92_1
+Added Pin To Net: NetName=NetC92_2 Pin=C92-2
+Added Pin To Net: NetName=NetC92_2 Pin=R72-1
+Added Net: Name=NetC92_2
+Added Pin To Net: NetName=NetC167_2 Pin=C167-2
+Added Pin To Net: NetName=NetC167_2 Pin=C168-2
+Added Net: Name=NetC167_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=U?-3
+Added Net: Name=NetR56_2
+Added Pin To Net: NetName=NetR66_1 Pin=R66-1
+Added Pin To Net: NetName=NetR66_1 Pin=U20-7
+Added Net: Name=NetR66_1
+Added Pin To Net: NetName=NetR70_2 Pin=R70-2
+Added Pin To Net: NetName=NetR70_2 Pin=R73-1
+Added Pin To Net: NetName=NetR70_2 Pin=U20-5
+Added Net: Name=NetR70_2
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Net: Name=NetU?_4
+Added Net: Name=NetU?_5
+Added Class: Name=sondes
+Added Member To Class: ClassName=microphone Member=Component FID2 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component FID4 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component FID5 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component FID6 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component MH1 Mounting Hole 6-32
+Added Member To Class: ClassName=microphone Member=Component MH2 Mounting Hole 6-32
+Added Room: Name=microphone
+Added Room: Name=sondes

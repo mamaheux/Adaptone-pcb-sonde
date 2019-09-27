@@ -1,0 +1,28 @@
+Added Component: Designator=FID2(FID_1MM)
+Added Component: Designator=FID3(FID_1MM)
+Added Component: Designator=FID4(FID_1MM)
+Added Component: Designator=FID5(FID_1MM)
+Added Component: Designator=FID6(FID_1MM)
+Added Component: Designator=MH1(MH_ENG_6-32)
+Added Component: Designator=MH2(MH_ENG_6-32)
+Added Component: Designator=MH3(MH_ENG_6-32)
+Added Component: Designator=MH4(MH_ENG_6-32)
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Pin To Net: NetName=IO34 Pin=U4-2
+Added Pin To Net: NetName=IO35 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetR8_2 Pin=U4-2
+Added Member To Class: ClassName=microphone Member=Component FID2 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component FID3 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component FID4 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component FID5 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component FID6 Fiducial 1mm
+Added Member To Class: ClassName=microphone Member=Component MH1 Mounting Hole 6-32
+Added Member To Class: ClassName=microphone Member=Component MH2 Mounting Hole 6-32
+Added Member To Class: ClassName=microphone Member=Component MH3 Mounting Hole 6-32
+Added Member To Class: ClassName=microphone Member=Component MH4 Mounting Hole 6-32

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=+5VA Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Member From Class: ClassName=microphone Member=R14
+Removed Member From Class: ClassName=microphone Member=R15
+Added Pin To Net: NetName=NetC16_1 Pin=U3-5
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Pin To Net: NetName=IO34 Pin=U4-2
+Added Pin To Net: NetName=IO35 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-2
+Added Pin To Net: NetName=NetR8_2 Pin=U4-2
+Change Net Name : Old Net Name=NetC16_1 New Net Name=VREF
+Added Member To Class: ClassName=microphone Member=Component D2 Diode_zener
+Added Room: Name=microphone
